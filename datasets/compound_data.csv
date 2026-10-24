@@ -1,0 +1,3 @@
+compound_id,pubchem_cid,compound_name,molecular_formula,molecular_weight,related_nutrient,source_url,verification_status
+1,54670067,"Ascorbic acid",C6H8O6,176.12,"Vitamin C","https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ascorbic%20acid/property/MolecularFormula,MolecularWeight/JSON",verified
+2,1130,Thiamine,C12H17N4OS+,265.36,"Vitamin B1 (thiamin)","https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/thiamine/property/MolecularFormula,MolecularWeight/JSON",verified

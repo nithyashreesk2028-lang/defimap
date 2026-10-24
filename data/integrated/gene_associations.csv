@@ -1,0 +1,6 @@
+﻿association_id,deficiency_id,gene_symbol,gene_id,gene_name,association_description,source_url
+5,1,HAMP,57817,"Hepcidin Antimicrobial Peptide","Encodes hepcidin, a hormone that regulates systemic iron availability and iron export; this is a biological iron-homeostasis relationship, not proof that dietary iron deficiency is caused by this gene.",https://www.ncbi.nlm.nih.gov/gene/57817
+1,1,HFE,3077,"Homeostatic Iron Regulator","Participates in iron sensing and regulation; variation can affect iron homeostasis, but the association does not establish nutritional deficiency.",https://www.ncbi.nlm.nih.gov/gene/3077
+4,1,SLC40A1,30061,Ferroportin,"Encodes ferroportin, a cellular iron exporter involved in iron transport; the association is mechanistic and not a diagnosis.",https://www.ncbi.nlm.nih.gov/gene/30061
+2,1,TF,7018,Transferrin,"Encodes transferrin, which transports iron in blood; this function is relevant to iron physiology but does not show that low dietary iron is gene-caused.",https://www.ncbi.nlm.nih.gov/gene/7018
+3,1,TFR2,7036,"Transferrin Receptor 2","Encodes transferrin receptor 2, involved in iron sensing and regulation of hepcidin; this is a biological pathway association, not a diagnosis.",https://www.ncbi.nlm.nih.gov/gene/7036

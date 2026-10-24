@@ -1,0 +1,21 @@
+﻿symptom_id,symptom_name,description,source_url
+1,Fatigue,"Feeling unusually tired or lacking energy; nonspecific and may have many causes.",https://medlineplus.gov/symptoms.html
+2,Weakness,"Reduced strength; nonspecific and may have many causes.",https://medlineplus.gov/symptoms.html
+3,"Hair Loss","Increased hair shedding or loss; has many possible causes.",https://medlineplus.gov/symptoms.html
+4,"Pale Skin","Paler-than-usual skin appearance; has many possible causes.",https://medlineplus.gov/symptoms.html
+5,"Bone Pain","Pain felt in bone; has many possible causes and requires appropriate assessment.",https://medlineplus.gov/symptoms.html
+6,"Muscle Cramps","Sudden involuntary muscle contraction; has many possible causes.",https://medlineplus.gov/symptoms.html
+7,"Dry Skin","Dry or rough skin; has many possible causes.",https://medlineplus.gov/symptoms.html
+8,"Night Blindness","Difficulty seeing in low light; requires professional assessment.",https://medlineplus.gov/symptoms.html
+9,"Bleeding Gums","Bleeding from the gums; dental and other causes are common.",https://medlineplus.gov/symptoms.html
+10,"Mouth Ulcers","Sores inside the mouth; have many possible causes.",https://medlineplus.gov/symptoms.html
+11,Numbness,"Reduced or altered sensation; cause and urgency depend on the situation.",https://medlineplus.gov/symptoms.html
+12,Dizziness,"A feeling of faintness, unsteadiness, or motion; has many possible causes.",https://medlineplus.gov/symptoms.html
+13,"Poor Wound Healing","A wound healing more slowly than expected; has many possible causes.",https://medlineplus.gov/symptoms.html
+14,"Frequent Infections","Repeated infections; a nonspecific finding that warrants context.",https://medlineplus.gov/symptoms.html
+15,"Loss of Appetite","Reduced desire to eat; has many possible causes.",https://medlineplus.gov/symptoms.html
+16,Depression,"Persistent low mood or loss of interest; requires appropriate mental-health assessment.",https://medlineplus.gov/symptoms.html
+17,"Brittle Nails","Nails that split, peel, or break easily; has many possible causes.",https://medlineplus.gov/symptoms.html
+18,"Shortness of Breath","Breathing discomfort or difficulty; may require urgent medical attention.",https://medlineplus.gov/symptoms.html
+19,Headache,"Pain or discomfort in the head; has many possible causes.",https://medlineplus.gov/symptoms.html
+20,"Weight Loss","Unintended decrease in body weight; has many possible causes.",https://medlineplus.gov/symptoms.html

@@ -1,0 +1,10 @@
+Options -Indexes
+DirectoryIndex index.php
+
+<FilesMatch "^(?:\.env(?:\..*)?|.*\.(?:sql|md|bat|zip))$">
+    Require all denied
+</FilesMatch>
+
+<FilesMatch "^\.(?!well-known/)">
+    Require all denied
+</FilesMatch>

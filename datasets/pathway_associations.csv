@@ -1,0 +1,5 @@
+﻿association_id,deficiency_id,pathway_name,pathway_id,pathway_description,source_url
+4,1,"Cellular Iron Uptake",,"Pathway label exported from the existing application database. Exact Reactome pathway correspondence and identifier have not been independently established.",https://reactome.org/
+3,1,Erythropoiesis,,"Biological process label exported from the existing application database. Exact Reactome pathway correspondence and identifier have not been independently established.",https://reactome.org/
+2,1,"HIF-1 Signaling Pathway",,"Pathway label exported from the existing application database. Exact Reactome pathway correspondence and identifier have not been independently established.",https://reactome.org/
+1,1,"Iron Homeostasis",,"Biological process label exported from the existing application database. Exact Reactome pathway correspondence and identifier have not been independently established.",https://reactome.org/

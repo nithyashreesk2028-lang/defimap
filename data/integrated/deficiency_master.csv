@@ -1,0 +1,21 @@
+﻿deficiency_id,deficiency_name,description,related_nutrient,source_url
+1,"Iron Deficiency","Iron deficiency occurs when the body lacks enough iron to produce healthy red blood cells.",Iron,https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/
+2,"Vitamin D Deficiency","Vitamin D deficiency weakens bones and muscles by reducing calcium absorption.","Vitamin D",https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/
+3,"Vitamin B12 Deficiency","Inadequate availability of Vitamin B12; clinical status requires appropriate assessment.","Vitamin B12",https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/
+4,"Vitamin A Deficiency","Vitamin A deficiency affects vision, immunity, and healthy skin.","Vitamin A",https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/
+5,"Vitamin C Deficiency","Vitamin C deficiency reduces collagen production and weakens immunity.","Vitamin C",https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/
+6,"Vitamin E Deficiency","Vitamin E deficiency damages nerves and muscles due to antioxidant deficiency.","Vitamin E",https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/
+7,"Vitamin K Deficiency","Vitamin K deficiency affects blood clotting and bone health.","Vitamin K",https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/
+8,"Vitamin B1 Deficiency","Vitamin B1 deficiency affects the nervous system and energy production.","Vitamin B1 (thiamin)",https://ods.od.nih.gov/factsheets/Thiamin-HealthProfessional/
+9,"Vitamin B2 Deficiency","Vitamin B2 deficiency affects skin, eyes, and energy metabolism.","Vitamin B2 (riboflavin)",https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/
+10,"Vitamin B3 Deficiency","Vitamin B3 deficiency causes pellagra and affects the digestive and nervous systems.","Vitamin B3 (niacin)",https://ods.od.nih.gov/factsheets/Niacin-HealthProfessional/
+11,"Vitamin B6 Deficiency","Vitamin B6 deficiency affects brain function and red blood cell formation.","Vitamin B6",https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/
+12,"Biotin Deficiency","Biotin deficiency affects hair, skin, and nail health.",Biotin,https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/
+13,"Folate Deficiency","Folate deficiency reduces healthy red blood cell production and DNA synthesis.",Folate,https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/
+14,"Calcium Deficiency","Calcium deficiency weakens bones and teeth.",Calcium,https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
+15,"Magnesium Deficiency","Magnesium deficiency affects muscles, nerves, and heart rhythm.",Magnesium,https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/
+16,"Zinc Deficiency","Zinc deficiency weakens immunity and delays wound healing.",Zinc,https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/
+17,"Copper Deficiency","Copper deficiency affects blood formation and nervous system function.",Copper,https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/
+18,"Iodine Deficiency","Iodine deficiency reduces thyroid hormone production.",Iodine,https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/
+19,"Selenium Deficiency","Selenium deficiency weakens antioxidant defense and immunity.",Selenium,https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/
+20,"Potassium Deficiency","Potassium deficiency affects muscles, nerves, and heart function.",Potassium,https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/
