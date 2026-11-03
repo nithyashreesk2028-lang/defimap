@@ -1,0 +1,11 @@
+.git
+.env
+.env.*
+private/
+data/
+datasets/
+*.sql
+*.sql.gz
+*.zip
+*.pptx
+*.bat

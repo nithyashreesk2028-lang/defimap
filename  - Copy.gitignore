@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+/private/production.php
+*.log
+*.sql.gz
+*.bak
+*.tmp
+/defimap.sql
+/DefiMap_Presentation*.pptx

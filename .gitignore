@@ -6,3 +6,5 @@
 *.sql.gz
 *.bak
 *.tmp
+/defimap.sql
+/DefiMap_Presentation*.pptx
