@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: defimap
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health.php
+    envVars:
+      - key: DEFIMAP_APP_ENV
+        value: production
+      - key: DEFIMAP_DB_HOST
+        sync: false
+      - key: DEFIMAP_DB_NAME
+        sync: false
+      - key: DEFIMAP_DB_USER
+        sync: false
+      - key: DEFIMAP_DB_PASSWORD
+        sync: false
